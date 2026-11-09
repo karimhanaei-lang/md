@@ -1,0 +1,19 @@
+# محیط مجازی
+.venv/
+venv/
+env/
+
+# پایتون
+__pycache__/
+.py[cod]
+$py.class
+.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# سیستم
+Thumbs.db
+desktop.ini
